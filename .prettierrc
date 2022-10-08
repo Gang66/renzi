@@ -1,0 +1,9 @@
+{
+  "indent_size": 2,
+ " editor.formatOnSave":true,
+  "eslintIntegration": true,
+  "stylelintIntegration": true,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "semi": false
+}
